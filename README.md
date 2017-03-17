@@ -1,6 +1,14 @@
 # sandjett
 Proyecto Formativo SENA
 
-adicione el titulo de la pagina
+Grupo Visiòn Empresarial
+  
+KINGVERLY SUAREZ CONTRERAS
+LUCIANA TORRES
+YOLIMA HERRERA DIAZ
+YURY CONSUEGRA ROMERO
+JOSE DE LA CERDA
+ADALBERTO ORDOÑEZ SARMIENTO
 
-cambie color 
+
+ 
