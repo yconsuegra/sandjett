@@ -2,8 +2,5 @@
 Proyecto Formativo SENA
 
 Grupo Visiòn Empresarial
-  
- cxc3
 
-
- 
+Puedes encontrar todos los iconos utilizado en el link http://fontawesome.io/icons/
